@@ -1,0 +1,26 @@
+{
+  "name": "backenddermora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "express-unless": "^1.0.0",
+    "express-validator": "^6.14.0",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.1",
+    "passport": "^0.5.2",
+    "socket.io": "^4.5.1",
+    "unless": "^0.1.1"
+  }
+}
